@@ -1,195 +1,195 @@
 [
     {
-        "url": "https://stream1.radionepal.gov.np/live/",
-        "title": "Radio Nepal",
+        "url_resolved": "https://stream1.radionepal.gov.np/live/",
+        "name": "Radio Nepal",
         "artist": "am/sw/fm radio",
-        "artwork": "img/radionepal.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radionepal.png"
     },
     {
-        "url": "https://radio-broadcast.ekantipur.com/stream/",
-        "title": "Kantipur Fm",
+        "url_resolved": "https://radio-broadcast.ekantipur.com/stream/",
+        "name": "Kantipur Fm",
         "artist": "91.2 MHZ kathmandu",
-        "artwork": "img/radio_kantipur.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radio_kantipur.png"
     },
     {
-        "url": "https://stream.zeno.fm/h527zwd11uquv",
-        "title": "ujyalo 90 network",
+        "url_resolved": "https://stream.zeno.fm/h527zwd11uquv",
+        "name": "ujyalo 90 network",
         "artist": "90 MHZ kathmandu",
-        "artwork": "img/ujyalo_90_network.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/ujyalo_90_network.png"
     },
     {
-        "url": "http://kalika-stream.softnep.com:7740/;",
-        "title": "kalika fm",
+        "url_resolved": "http://kalika-stream.softnep.com:7740/;",
+        "name": "kalika fm",
         "artist": "95.2 MHZ butwal",
-        "artwork": "img/kalikafm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/kalikafm.png"
     },
     {
-        "url": "https://live.itech.host:9107/stream",
-        "title": "galyang fm",
+        "url_resolved": "https://live.itech.host:9107/stream",
+        "name": "galyang fm",
         "artist": "92.2 MHZ syangja",
-        "artwork": "img/galyangfm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/galyangfm.png"
     },
     {
-        "url": "https://stream.zeno.fm/fvrx47wpg0quv",
-        "title": "radio audio",
+        "url_resolved": "https://stream.zeno.fm/fvrx47wpg0quv",
+        "name": "radio audio",
         "artist": "106.3 MHZ kathmandu",
-        "artwork": "img/radioaudio.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radioaudio.png"
     },
     {
-        "url": "https://live.itech.host:9598/stream",
-        "title": "shreenagar fm",
+        "url_resolved": "https://live.itech.host:9598/stream",
+        "name": "shreenagar fm",
         "artist": "93.2 MHZ tansen palpa",
-        "artwork": "img/shreenagarfm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/shreenagarfm.png"
     },
     {
-        "url": "https://live.itech.host:8379/stream",
-        "title": "Radio Bhorukawa",
+        "url_resolved": "https://live.itech.host:8379/stream",
+        "name": "Radio Bhorukawa",
         "artist": "bhorukawa",
-        "artwork": "img/radio-bhorukawa.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radio-bhorukawa.png"
     },
     {
-        "url": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
-        "title": "Hits FM",
+        "url_resolved": "https://usa15.fastcast4u.com/proxy/hitsfm912?mp=/1",
+        "name": "Hits FM",
         "artist": "hits",
-        "artwork": "img/hits_fm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/hits_fm.png"
     },
     {
-        "url": "https://shoutcast.prixa.live/annapurna",
-        "title": "Radio Annapurna Nepal",
+        "url_resolved": "https://shoutcast.prixa.live/annapurna",
+        "name": "Radio Annapurna Nepal",
         "artist": "annapurnanepal",
-        "artwork": "img/radio_annapurna_nepal.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radio_annapurna_nepal.png"
     },
     {
-        "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
-        "title": "BFBS Gurkha Radio",
+        "url_resolved": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+        "name": "BFBS Gurkha Radio",
         "artist": "bfbsgurkha",
-        "artwork": "img/bfbs_gurkha_radio.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/bfbs_gurkha_radio.png"
     },
     {
-        "url": "https://stream.zeno.fm/60tx8fw9dd0uv",
-        "title": "Radio Tufan",
+        "url_resolved": "https://stream.zeno.fm/60tx8fw9dd0uv",
+        "name": "Radio Tufan",
         "artist": "tufan",
-        "artwork": "img/radio_tufan.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radio_tufan.png"
     },
     {
-        "url": "https://streaming.softnep.net:10982/;stream.nsv&type:mp3&volume:10",
-        "title": "Capital FM",
+        "url_resolved": "https://streaming.softnep.net:10982/;stream.nsv&type:mp3&volume:10",
+        "name": "Capital FM",
         "artist": "capital",
-        "artwork": "img/capital_fm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/capital_fm.png"
     },
     {
-        "url": "https://live.itech.host:8927/stream",
-        "title": "Radio Amargadhi",
+        "url_resolved": "https://live.itech.host:8927/stream",
+        "name": "Radio Amargadhi",
         "artist": "amargadhi",
-        "artwork": "img/radio_amargadhi.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radio_amargadhi.png"
     },
     {
-        "url": "https://stream.zeno.fm/gubb557z4k8uv",
-        "title": "Barahathawa fm 101.1Mhz",
+        "url_resolved": "https://stream.zeno.fm/gubb557z4k8uv",
+        "name": "Barahathawa fm 101.1Mhz",
         "artist": "barahathawa1011",
-        "artwork": "img/barahathawa_fm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/barahathawa_fm.png"
     },
     {
-        "url": "https://onlineradio.websoftitnepal.com/8002/stream",
-        "title": "Sky FM 106.6",
+        "url_resolved": "https://onlineradio.websoftitnepal.com/8002/stream",
+        "name": "Sky FM 106.6",
         "artist": "sky",
-        "artwork": "img/sky_fm_106_6.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/sky_fm_106_6.png"
     },
     {
-        "url": "https://streaming.webhostnepal.com/8010/stream",
-        "title": "Shuklaphanta FM",
+        "url_resolved": "https://streaming.webhostnepal.com/8010/stream",
+        "name": "Shuklaphanta FM",
         "artist": "shuklaphanta",
-        "artwork": "img/shuklaphanta_fm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/shuklaphanta_fm.png"
     },
     {
-        "url": "https://live.itech.host:8167/stream?1611505122592",
-        "title": "Good News FM",
+        "url_resolved": "https://live.itech.host:8167/stream?1611505122592",
+        "name": "Good News FM",
         "artist": "goodnewsfm",
-        "artwork": "img/good_news_fm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/good_news_fm.png"
     },
     {
-        "url": "https://live.itech.host:3260/stream",
-        "title": "Radio Resunga",
+        "url_resolved": "https://live.itech.host:3260/stream",
+        "name": "Radio Resunga",
         "artist": "resunga",
-        "artwork": "img/radio_resunga.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radio_resunga.png"
     },
     {
-        "url": "https://streaming.softnep.net:10874/;stream.nsv&type:mp3&volume:50",
-        "title": "Radio Rudraksha",
+        "url_resolved": "https://streaming.softnep.net:10874/;stream.nsv&type:mp3&volume:50",
+        "name": "Radio Rudraksha",
         "artist": "rudraksha",
-        "artwork": "img/radio_rudraksha.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radio_rudraksha.png"
     },
     {
-        "url": "https://stream.hamropatro.com/8783",
-        "title": "Classic FM",
+        "url_resolved": "https://stream.hamropatro.com/8783",
+        "name": "Classic FM",
         "artist": "classic",
-        "artwork": "img/classic_fm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/classic_fm.png"
     },
     {
-        "url": "https://astream.nepalipatro.com.np:8119/index.html",
-        "title": "Times FM",
+        "url_resolved": "https://astream.nepalipatro.com.np:8119/index.html",
+        "name": "Times FM",
         "artist": "times",
-        "artwork": "img/times_fm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/times_fm.png"
     },
     {
-        "url": "https://live.itech.host:8749/stream",
-        "title": "Pathibhara FM",
+        "url_resolved": "https://live.itech.host:8749/stream",
+        "name": "Pathibhara FM",
         "artist": "pathibhara",
-        "artwork": "img/pathibhara_fm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/pathibhara_fm.png"
     },
     {
-        "url": "https://live.itech.host:8434/stream",
-        "title": "Krishnasar FM",
+        "url_resolved": "https://live.itech.host:8434/stream",
+        "name": "Krishnasar FM",
         "artist": "krishnasar",
-        "artwork": "img/krishnasar_fm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/krishnasar_fm.png"
     },
     {
-        "url": "https://live.itech.host:3880/stream",
-        "title": "Synergy FM",
+        "url_resolved": "https://live.itech.host:3880/stream",
+        "name": "Synergy FM",
         "artist": "synergy",
-        "artwork": "img/synergy_fm.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/synergy_fm.png"
     },
     {
-        "url": "https://live.itech.host:8939/stream",
-        "title": "Radio Prakriti",
+        "url_resolved": "https://live.itech.host:8939/stream",
+        "name": "Radio Prakriti",
         "artist": "prakriti",
-        "artwork": "img/radio_prakriti.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radio_prakriti.png"
     },
     {
-        "url": "https://live.itech.host:8681/stream",
-        "title": "Radio Nepalbani",
+        "url_resolved": "https://live.itech.host:8681/stream",
+        "name": "Radio Nepalbani",
         "artist": "nepalbani",
-        "artwork": "img/radio_nepalbani.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radio_nepalbani.png"
     },
     {
-        "url": "https://streaming.webhostnepal.com:7032/;stream.nsv&type:mp3&volume:30",
-        "title": "Radio Marsyangdi",
+        "url_resolved": "https://streaming.webhostnepal.com:7032/;stream.nsv&type:mp3&volume:30",
+        "name": "Radio Marsyangdi",
         "artist": "marsyangdi",
-        "artwork": "img/radio_marsyangdi.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/radio_marsyangdi.png"
     },
     {
-        "url": "https://live.itech.host:9065/stream",
-        "title": "Radio Bheri",
+        "url_resolved": "https://live.itech.host:9065/stream",
+        "name": "Radio Bheri",
         "artist": "radiobherisurkhet",
-        "artwork": "img/31211.v6.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/31211.v6.png"
     },
     {
-        "url": "http://live.itechnepal.com:7001/stream",
-        "title": "Radio Surkhet",
+        "url_resolved": "http://live.itechnepal.com:7001/stream",
+        "name": "Radio Surkhet",
         "artist": "radiosurkhet",
-        "artwork": "img/31566.v3.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/31566.v3.png"
     },
     {
-        "url": "https://stream.zeno.fm/u3spr2gttzyvv",
-        "title": "Radio Bageshwori",
+        "url_resolved": "https://stream.zeno.fm/u3spr2gttzyvv",
+        "name": "Radio Bageshwori",
         "artist": "radiobageshworinpg",
-        "artwork": "img/logowf9igz7tb.png"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/logowf9igz7tb.png"
     },
     {
-        "url": "https://live.itech.host:8434/stream",
-        "title": "Radio Nepalgunj FM",
+        "url_resolved": "https://live.itech.host:8434/stream",
+        "name": "Radio Nepalgunj FM",
         "artist": "radionepalgunj",
-        "artwork": "img/Radio-Nepalgunj-FM.jpg"
+        "favicon": "https://raw.githubusercontent.com/luckisoff/fmradiolist/refs/heads/main/img/Radio-Nepalgunj-FM.jpg"
     }
 
     
