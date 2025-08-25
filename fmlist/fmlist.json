@@ -166,6 +166,31 @@
         "title": "Radio Marsyangdi",
         "artist": "marsyangdi",
         "artwork": "img/radio_marsyangdi.png"
+    },
+    {
+        "url": "https://live.itech.host:9065/stream",
+        "title": "Radio Bheri",
+        "artist": "radiobherisurkhet",
+        "artwork": "img/31211.v6.png"
+    },
+    {
+        "url": "http://live.itechnepal.com:7001/stream",
+        "title": "Radio Surkhet",
+        "artist": "radiosurkhet",
+        "artwork": "img/31566.v3.png"
+    },
+    {
+        "url": "https://stream.zeno.fm/u3spr2gttzyvv",
+        "title": "Radio Bageshwori",
+        "artist": "radiobageshworinpg",
+        "artwork": "img/logowf9igz7tb.png"
+    },
+    {
+        "url": "https://live.itech.host:8434/stream",
+        "title": "Radio Nepalgunj FM",
+        "artist": "radionepalgunj",
+        "artwork": "img/Radio-Nepalgunj-FM.jpg"
     }
+
     
 ]
